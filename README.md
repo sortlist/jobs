@@ -1,6 +1,6 @@
 # Sortlist Challenges
 
-[Sortlist](https://www.sortlist.com)s is not just a beautiful interface, it’s a full experience with a deep integration from the user interface all the way to the servers we interact with. As Sortlist’s backbone, the development is crucial to every aspect of our web application and client apps rely heavily on it.
+[Sortlist](https://www.sortlist.com) is not just a beautiful interface, it’s a full experience with a deep integration from the user interface all the way to the servers we interact with. As Sortlist’s backbone, the development is crucial to every aspect of our web application and client apps rely heavily on it.
 
 That’s why we’re looking for a talented Full-Stack Engineer to join our highly motivated development team and help us build Sortlist inside out. As Mom used to say, beauty comes from within.
 
