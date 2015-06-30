@@ -10,6 +10,8 @@ You are asked to write a web application that dynamically shows a list of agenci
 
 The list should be filterable by the properties `name`, `tags` and ordered by their grades. You should alse be able to create an agency in the application.
 
+![Example of yoda challenge](https://s3-eu-west-1.amazonaws.com/sortlist-sitemap/sortlist-yoda-challenge.png)
+
 ### Technical Specifications
 
 #### Front-End
