@@ -31,7 +31,9 @@ We strongly recommend to use [Ruby on Rails](http://rubyonrails.org/) but [NodeJ
 
 Give your instructions to deploy front & back-end applications.
 
-Create a new private GitHub repository and push your commits to it as you are completing the challenge.
+
+Create a new private GitHub repository. Immediately after the project initialization (auto-generated stuff), **please switch on another branch** and push your commits to it as you are completing the challenge. It would help us to review your code through a pull request.
+
 In order to see how you work, we are interested in seeing each commit. A big dump of your project to github in one commit is not a good idea.
 
 Once you are ready, add the dev team (@charlesdg, @gagalago) from the Sortlist team to the repository and send an email for us (charles@sortlist.com, simon@sortlist.com) to review it.
