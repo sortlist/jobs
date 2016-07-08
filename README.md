@@ -15,17 +15,16 @@ The list should be filterable by the properties `name`, `tags` and ordered by th
 ### Technical Specifications
 
 #### Front-End
-We ask you to use the [AngularJS](https://angularjs.org/) framework to build the front-end part of the challenge.
+We ask you to use the [AngularJS](https://angularjs.org/) framework to build the front-end part of the challenge. Don't hesitate to use ECMAScript 6 specifications.
 
 Some Libraries to consider:
- * [CoffeeScript](http://coffeescript.org/)
  * [Twitter Bootstrap 3](http://getbootstrap.com/)
  * [ui-router](https://github.com/angular-ui/ui-router)
- * [HAML](http://haml.info/)
+ * [PUG (Previously JADE)](http://jade-lang.com/)
 
 #### Back-End
 
-We strongly recommend to use [Ruby on Rails](http://rubyonrails.org/) but [NodeJS](https://nodejs.org/) is also authorized. We also ask you to use a relational database (e.g. [postgreSQL](http://www.postgresql.org/)).
+We strongly recommend to use [Ruby on Rails](http://rubyonrails.org/) or [NodeJS (Express)](https://nodejs.org/). We also ask you to use a relational database (e.g. [postgreSQL](http://www.postgresql.org/)).
 
 #### Instructions
 
@@ -53,4 +52,3 @@ Keep in mind what we will compare your work with our own production application.
  * extensible
  * maintainable
  * great error/exception handling & reporting
-  
