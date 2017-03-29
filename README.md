@@ -18,7 +18,7 @@ The list should be filterable by the properties `name`, `tags` and ordered by th
 We ask you to use the [AngularJS](https://angularjs.org/) framework to build the front-end part of the challenge. Don't hesitate to use ECMAScript 6 specifications.
 
 Some Libraries to consider:
- * [Twitter Bootstrap 3](http://getbootstrap.com/)
+ * [Material Design](https://material.io/guidelines/) or [Twitter Bootstrap 3](http://getbootstrap.com/)
  * [ui-router](https://github.com/angular-ui/ui-router)
 
 #### Back-End
