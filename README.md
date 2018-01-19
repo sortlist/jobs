@@ -34,7 +34,7 @@ Create a new private GitHub repository. Immediately after the project initializa
 
 In order to see how you work, we are interested in seeing each commit. A big dump of your project to github in one commit is not a good idea.
 
-Once you are ready, add the dev team (@charlesdg, @gagalago) from the Sortlist team to the repository and send an email for us (charles@sortlist.com, simon@sortlist.com) to review it.
+Once you are ready, add the dev team (@charlesdg, @gagalago, @matthieusieben) from the Sortlist team to the repository and send an email for us (charles@sortlist.com, simon@sortlist.com, matthieu@sortlist.com) to review it.
 
 Don't hesitate to ask us questions. Displaying creativity is a bonus in all challenges.
 
