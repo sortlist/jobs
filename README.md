@@ -26,3 +26,7 @@ As it is a front-end challenge, no back-end application is asked.
 #### Testing
 
 Write tests for critical parts of your app. The process of writing tests for your code also reminds you of input cases that you may have missed before.
+
+### Others infos
+
+For general information, please check [here](https://github.com/sortlist/jobs)
