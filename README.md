@@ -1,12 +1,10 @@
-# Sortlist Challenges
+# Sortlist Challenges - Front-End
 
-[Sortlist](https://www.sortlist.com) is not just a beautiful interface, it’s a full experience with a deep integration from the user interface all the way to the servers we interact with. As Sortlist’s backbone, the development is crucial to every aspect of our web application and client apps rely heavily on it.
-
-That’s why we’re looking for a talented Full-Stack Engineer to join our highly motivated development team and help us build Sortlist inside out. As Mom used to say, beauty comes from within.
+Frontend Engineers are an essential part of [Sortlist](https://www.sortlist.com)’s Product Team (). Working closely with designers, we implement the user interface of our web app. We build libraries and abstractions to make our lives easier. We make the most of modern tools like AngularJS, ES6, and SASS, and we ensure our UIs work well on all screen sizes. Some of us specialize in CSS, some in frontend infrastructure, but all of us are JavaScript pros and full-stack engineers.
 
 ## The Yoda Agency challenge
 
-You are asked to write a web application that dynamically shows a list of agencies. Each agency has multiple properties: `agency.name`, `agency.description`, `agency.tags` and `agency.grade`. The grade of an agency will be `padawan`, `jedi` or `master`.
+You are asked to write a front-end web application that dynamically shows a list of agencies. Each agency has multiple properties: `agency.name`, `agency.description`, `agency.tags` and `agency.grade`. The grade of an agency will be `padawan`, `jedi` or `master`.
 
 The list should be filterable by the properties `name`, `tags` and ordered by their grades. You should alse be able to create an agency in the application.
 
@@ -15,7 +13,7 @@ The list should be filterable by the properties `name`, `tags` and ordered by th
 ### Technical Specifications
 
 #### Front-End
-We ask you to use the [AngularJS](https://angularjs.org/) framework to build the front-end part of the challenge. Don't hesitate to use ECMAScript 6 specifications.
+We ask you to use the [AngularJS](https://angularjs.org/) framework. Don't hesitate to use ECMAScript 6 specifications.
 
 Some Libraries to consider:
  * [Material Design](https://material.io/guidelines/) or [Twitter Bootstrap 3](http://getbootstrap.com/)
@@ -23,11 +21,11 @@ Some Libraries to consider:
 
 #### Back-End
 
-We strongly recommend to use [Ruby on Rails](http://rubyonrails.org/) or [NodeJS (Express)](https://nodejs.org/). We also ask you to use a relational database (e.g. [postgreSQL](http://www.postgresql.org/)).
+As it is a front-end challenge, no back-end application is asked.
 
 #### Instructions
 
-Give your instructions to deploy front & back-end applications.
+Give your instructions to deploy the front application.
 
 
 Create a new private GitHub repository. Immediately after the project initialization (auto-generated stuff), **please switch on another branch** and push your commits to it as you are completing the challenge. It would help us to review your code through a pull request.
