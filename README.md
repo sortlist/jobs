@@ -9,7 +9,7 @@ You can see here 3 differents challenges:
 - [Front-end](https://github.com/sortlist/jobs/blob/front-end)
 - [Back-end](https://github.com/sortlist/jobs/blob/back-end)
 
-Pick up which best fit you and go ahead!
+Pick one and go ahead!
 
 #### Instructions
 
