@@ -28,3 +28,7 @@ We strongly recommend to use [Ruby on Rails](http://rubyonrails.org/) or [NodeJS
 #### Testing
 
 Write tests for critical parts of your app. The process of writing tests for your code also reminds you of input cases that you may have missed before.
+
+### Others infos
+
+For general information, please check [here](https://github.com/sortlist/jobs)
