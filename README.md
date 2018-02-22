@@ -1,3 +1,5 @@
+![Sortlist Logo](https://s3-eu-west-1.amazonaws.com/magicagencies/externals/fb.png)
+
 # Sortlist Challenges
 
 [Sortlist](https://www.sortlist.com) is not just a beautiful interface, it’s a full experience with a deep integration from the user interface all the way to the servers we interact with. As Sortlist’s backbone, the development is crucial to every aspect of our web application and client apps rely heavily on it.
