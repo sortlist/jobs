@@ -23,29 +23,6 @@ Some Libraries to consider:
 
 As it is a front-end challenge, no back-end application is asked.
 
-#### Instructions
-
-Give your instructions to deploy your application.
-
-
-Create a new private GitHub repository. Immediately after the project initialization (auto-generated stuff), **please switch on another branch** and push your commits to it as you are completing the challenge. It would help us to review your code through a pull request.
-
-In order to see how you work, we are interested in seeing each commit. A big dump of your project to github in one commit is not a good idea.
-
-Once you are ready, add the dev team (@charlesdg, @gagalago, @matthieusieben) from the Sortlist team to the repository and send an email for us (charles@sortlist.com, simon@sortlist.com, matthieu@sortlist.com) to review it.
-
-Don't hesitate to ask us questions. Displaying creativity is a bonus in all challenges.
-
 #### Testing
 
 Write tests for critical parts of your app. The process of writing tests for your code also reminds you of input cases that you may have missed before.
-
-#### Side notes
-
-Keep in mind what we will compare your work with our own production application. While we are not asking for a full production-ready app, we’d like to see that your code has that potential:
-
- * clean
- * flexible
- * extensible
- * maintainable
- * great error/exception handling & reporting
