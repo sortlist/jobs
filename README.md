@@ -1,8 +1,6 @@
 # Sortlist Challenges
 
-[Sortlist](https://www.sortlist.com) is not just a beautiful interface, it’s a full experience with a deep integration from the user interface all the way to the servers we interact with. As Sortlist’s backbone, the development is crucial to every aspect of our web application and client apps rely heavily on it.
-
-That’s why we’re looking for a talented Full-Stack Engineer to join our highly motivated development team and help us build Sortlist inside out. As Mom used to say, beauty comes from within.
+[Sortlist](https://www.sortlist.com) is not just a beautiful interface, it’s a full experience with a deep integration from the user interface all the way to the servers we interact with. As Sortlist’s backbone, the development is crucial to every aspect of our web application and client apps rely heavily on it. That’s why we’re looking for a talented for back-end Engineer to join our highly motivated development team and help us build Sortlist inside out. As Mom used to say, beauty comes from within. There is much more that we want to build and so much that we could improve. We value strong engineers who are agile enough to jump into most projects.
 
 ## The Yoda Agency challenge
 
@@ -14,20 +12,16 @@ The list should be filterable by the properties `name`, `tags` and ordered by th
 
 ### Technical Specifications
 
-#### Front-End
-We ask you to use the [AngularJS](https://angularjs.org/) framework to build the front-end part of the challenge. Don't hesitate to use ECMAScript 6 specifications.
+We strongly recommend to use [Ruby on Rails](http://rubyonrails.org/) or [NodeJS (Express)](https://nodejs.org/) to construct your app. We also ask you to use a relational database (e.g. [postgreSQL](http://www.postgresql.org/)).
 
-Some Libraries to consider:
+For the front-end, please use html views. 
+
+Some Libraries to consider for the front-end:
  * [Material Design](https://material.io/guidelines/) or [Twitter Bootstrap 3](http://getbootstrap.com/)
- * [ui-router](https://github.com/angular-ui/ui-router)
-
-#### Back-End
-
-We strongly recommend to use [Ruby on Rails](http://rubyonrails.org/) or [NodeJS (Express)](https://nodejs.org/). We also ask you to use a relational database (e.g. [postgreSQL](http://www.postgresql.org/)).
 
 #### Instructions
 
-Give your instructions to deploy front & back-end applications.
+Give your instructions to deploy your application.
 
 
 Create a new private GitHub repository. Immediately after the project initialization (auto-generated stuff), **please switch on another branch** and push your commits to it as you are completing the challenge. It would help us to review your code through a pull request.
