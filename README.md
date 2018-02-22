@@ -25,7 +25,7 @@ As it is a front-end challenge, no back-end application is asked.
 
 #### Instructions
 
-Give your instructions to deploy the front application.
+Give your instructions to deploy your application.
 
 
 Create a new private GitHub repository. Immediately after the project initialization (auto-generated stuff), **please switch on another branch** and push your commits to it as you are completing the challenge. It would help us to review your code through a pull request.
