@@ -1,6 +1,6 @@
 # Sortlist Challenges - Front-End
 
-Frontend Engineers are an essential part of [Sortlist](https://www.sortlist.com)’s Product Team (). Working closely with designers, we implement the user interface of our web app. We build libraries and abstractions to make our lives easier. We make the most of modern tools like AngularJS, ES6, and SASS, and we ensure our UIs work well on all screen sizes. Some of us specialize in CSS, some in frontend infrastructure, but all of us are JavaScript pros and full-stack engineers.
+Frontend Engineers are an essential part of [Sortlist](https://www.sortlist.com)’s Product Team. Working closely with designers, we implement the user interface of our web app. We build libraries and abstractions to make our lives easier. We make the most of modern tools like AngularJS, ES6, and SASS, and we ensure our UIs work well on all screen sizes. Some of us specialize in CSS, some in frontend infrastructure, but all of us are JavaScript pros and full-stack engineers.
 
 ## The Yoda Agency challenge
 
