@@ -7,9 +7,9 @@
 That’s why we’re looking for a talented Engineer to join our highly motivated development team and help us build Sortlist inside out. As Mom used to say, beauty comes from within.
 
 You can see here 3 differents challenges:
-- [Full-Stack](https://github.com/sortlist/jobs/blob/full-stack)
-- [Front-end](https://github.com/sortlist/jobs/blob/front-end)
-- [Back-end](https://github.com/sortlist/jobs/blob/back-end)
+- [Full-Stack](https://github.com/sortlist/jobs/tree/full-stack)
+- [Front-end](https://github.com/sortlist/jobs/tree/front-end)
+- [Back-end](https://github.com/sortlist/jobs/tree/back-end)
 
 Pick one and go ahead!
 
