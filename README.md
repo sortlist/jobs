@@ -40,11 +40,12 @@ e.g:
 
 5. Can you create one dashboard on tableau where we can visualize the MRR per plan type, country and agencies expertise ? 
 
-EXTRA BONUS POINTS.
 
-6. How is the revenue churn evolving in time ? Can you explain why it is good and/or bad for Sortlist ? 
+## Extra Bonus
 
-7. How would you display on tableau a clear visualization of the revenue churn per plan type & countries ?
+1. How is the revenue churn evolving in time ? Can you explain why it is good and/or bad for Sortlist ? 
+
+2. How would you display on tableau a clear visualization of the revenue churn per plan type & countries ?
 
 The spreadsheet is composed of 4 tabs:
 * Invoices : all the invoices since 2015-01-15
