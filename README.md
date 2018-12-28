@@ -20,7 +20,7 @@ You want to make sure to give important insights to the management team by helpi
 Therefore, you have received a small set of Data in the following Spreadsheet  
 <a href="https://docs.google.com/spreadsheets/d/1DSHE0r-RVgzaNjc8wyvG7_gVVYUOCdm78fO3MajlK8s/edit#gid=0" target="_blank">The Spreadsheet </a>
 
-Your goal is to understand the agencies' behavious (accounts) on Sortlist in time, per countries, and per plan type.
+Your goal is to understand the agencies' behaviours (accounts) on Sortlist in time, per countries, and per plan type.
 
 ## Hints & tips: 
 1. Duplicate the Google spreadsheet
