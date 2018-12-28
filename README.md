@@ -47,21 +47,23 @@ e.g:
 
 2. How would you display on tableau a clear visualization of the revenue churn per plan type & countries ?
 
-The spreadsheet is composed of 4 tabs:
-* Invoices : all the invoices since 2015-01-15
-* Accounts : all the agencies accounts since 2015 
-* Subscriptions : all the subscriptions 
-* Plan_type : all the different plan period 
 
-Once you have cover the 7 questions, please send them by email to thibaut@sortlist.com and olivier@sortlist.com with the link of your published workbook & the extract of your workbook. 
-
-ps: please embedded your passwords on Tableau to ease the access to your project & workbooks. 
 
 ### Technical Specifications
 
 You are asked to create a project on https://www.tableau.com/ public that can be used with dynamic filters.
 
 The project will gatter dashboards & workbooks that could be shared with our team.
+
+The spreadsheet is composed of 4 tabs:
+* Invoices : all the invoices since 2015-01-15
+* Accounts : all the agencies accounts since 2015 
+* Subscriptions : all the subscriptions 
+* Plan_type : all the different plan period 
+
+Once you have cover the questions, please send them by email to thibaut@sortlist.com and olivier@sortlist.com with the link of your published workbook & the extract of your workbook. 
+
+ps: please embedded your passwords on Tableau to ease the access to your project & workbooks. 
 
 #### Tableau
 We ask you to use tableau [Tableau](https://www.tableau.com/) to build the dashboards for the challenge. Don't hesitate to use Tableau community for help [Tableau Community](https://community.tableau.com/welcome).
