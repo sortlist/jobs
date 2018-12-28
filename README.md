@@ -13,10 +13,10 @@ You have already studied & meet all our team members after your training period 
 
 You know that **subscriptions are the main Sortlist's revenue driver** and you want to better understand them.
 
-You want to make sure to give important insight to the management team by helping them to *understand the company growth and the leverage that Sortlist has at international level*. 
+You want to make sure to give important insights to the management team by helping them to *understand the company growth and the leverages that Sortlist has at international level*. 
 
-Therefore, you have received a small set of Data in the following Spreadsheet 
-<a href="https://docs.google.com/spreadsheets/d/1DSHE0r-RVgzaNjc8wyvG7_gVVYUOCdm78fO3MajlK8s/edit#gid=0" target="_blank">Spreadsheet</a>
+Therefore, you have received a small set of Data in the following Spreadsheet  
+<a href="https://docs.google.com/spreadsheets/d/1DSHE0r-RVgzaNjc8wyvG7_gVVYUOCdm78fO3MajlK8s/edit#gid=0" target="_blank"> Spreadsheet </a>
 
 Your goal is to understand the behaviors of agencies (accounts) on Sortlist in time, per countries, and per plan type.
 
