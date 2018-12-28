@@ -56,7 +56,7 @@ Once done send by email @thibaut@sortlist.com & @olivier@sortlist.com:
 1. a copy/extract of your workbook with the datasource used. 
 
 
-![Example of LUCANUS Analysis](https://ibb.co/nBJGRyN)
+![Example of LUCANUS Analysis](https://drive.google.com/file/d/1nPkBf_Pakrf9Uyew4iIbLI0edorrogiv/view?usp=sharing) 
 
 
 ### Technical Specifications
@@ -66,7 +66,7 @@ You are asked to create a project on https://www.tableau.com/ public that can be
 The project will gatter dashboards & workbooks that could be shared with our team.
 
 #### Tableau
-We ask you to use tableau [Tableau](https://www.tableau.com/) to build the dashboards for the challenge. Don't hesitate to use Tableau community for help [Tableau Community] (https://community.tableau.com/welcome).
+We ask you to use tableau [Tableau](https://www.tableau.com/) to build the dashboards for the challenge. Don't hesitate to use Tableau community for help [Tableau Community](https://community.tableau.com/welcome).
 
 Some useful knowledge center to consider:
  * [Best Practices on Tableau](https://onlinehelp.tableau.com/current/pro/desktop/en-us/dashboards_best_practices.htm)
