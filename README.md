@@ -7,6 +7,9 @@ That’s why we’re looking for a talented Data Analyst to join our highly moti
 ## The LUCANUS Challenge 
 or more commonly the Listen, Understand, Cohorts, Aknowledge, Narratives, Users & Stories. 
 
+<a href="https://ibb.co/nBJGRyN"><img src="https://i.ibb.co/HC8SXyf/Screen-Shot-2018-12-28-at-11-29-38.png" alt="Screen-Shot-2018-12-28-at-11-29-38" border="0" /></a>
+
+
 As the new **Data Analyst** of Sortlist you need to get to know the business and behaviors of Sortlist's clients. 
 
 You have already studied & meet all our team members after your training period at Sortlist and understand the Business model dynamic pretty well.
@@ -48,16 +51,9 @@ The spreadsheet is composed of 4 tabs:
 * Subscriptions : all the subscriptions 
 * Plan_type : all the different plan period 
 
+Once you have cover the 7 questions, please send them by email to thibaut@sortlist.com and olivier@sortlist.com with the link of your published workbook & the extract of your workbook. 
+
 ps: please embedded your passwords on Tableau to ease the access to your project & workbooks. 
-
-Once done send by email @thibaut@sortlist.com & @olivier@sortlist.com: 
-
-0. the link of your published work
-1. a copy/extract of your workbook with the datasource used. 
-
-
-<a href="https://ibb.co/nBJGRyN"><img src="https://i.ibb.co/HC8SXyf/Screen-Shot-2018-12-28-at-11-29-38.png" alt="Screen-Shot-2018-12-28-at-11-29-38" border="0" /></a> 
-
 
 ### Technical Specifications
 
@@ -77,7 +73,7 @@ Some useful knowledge center to consider:
 
 #### Side notes
 
-Keep in mind what we will compare your work with our own Tableau analysis.  We’d like to see that your data analysis has that potential:
+Keep in mind what we will compare your work with our own Tableau analysis.  We’d like to see that your data analysis is:
 
  * clean
  * readable
