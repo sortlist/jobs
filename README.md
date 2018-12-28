@@ -4,18 +4,19 @@
 
 That’s why we’re looking for a talented Data Analyst to join our highly motivated team and help us build Sortlist inside out. As Mom used to say, beauty comes from within.
 
-## The LUCANUS Challenge (or more commonly the Listen, Understand, Cohorts, Aknowledge, Narratives, Users & Stories) 
+## The LUCANUS Challenge 
+or more commonly the Listen, Understand, Cohorts, Aknowledge, Narratives, Users & Stories. 
 
-As the new Data Analyst of Sortlist you need to get to know the business and behaviors of Sortlist's clients. 
+As the new **Data Analyst** of Sortlist you need to get to know the business and behaviors of Sortlist's clients. 
 
 You have already studied & meet all our team members after your training period at Sortlist and understand the Business model dynamic pretty well.
 
-You know that subscriptions are the main Sortlist's revenue and you want to better understand them.
+You know that **subscriptions are the main Sortlist's revenue driver** and you want to better understand them.
 
-You want to make sure to give important insight to the management team by helping them to understand more the company growth and the leverage that Sortlist has at international level. 
+You want to make sure to give important insight to the management team by helping them to *understand the company growth and the leverage that Sortlist has at international level*. 
 
-Therefore, you have received a small set of Data in the following 
-[Spreadsheet](https://docs.google.com/spreadsheets/d/1DSHE0r-RVgzaNjc8wyvG7_gVVYUOCdm78fO3MajlK8s/edit#gid=0)
+Therefore, you have received a small set of Data in the following Spreadsheet 
+<a href="https://docs.google.com/spreadsheets/d/1DSHE0r-RVgzaNjc8wyvG7_gVVYUOCdm78fO3MajlK8s/edit#gid=0" target="_blank">Spreadsheet</a>
 
 Your goal is to understand the behaviors of agencies (accounts) on Sortlist in time, per countries, and per plan type.
 
