@@ -24,8 +24,9 @@ Your goal is to understand the behaviors of agencies (accounts) on Sortlist in t
 - Duplicate the Google spreadsheet
 - note that accounts can have multiple subscriptions
 - note that amounts purchase and/or refund are not linked to plan type period 
-e.g: a yearly plan could be sold at 250 EUR/year => 20.83333 EUR/Month
- and a monthly plan could be sold at 250 EUR/month => 3000 EUR/YEAR 
+e.g: 
+* a yearly plan could be sold at 250 EUR/year => 20.83333 EUR/Month
+* and a monthly plan could be sold at 250 EUR/month => 3000 EUR/YEAR 
 
 ## Exercices: 
 
