@@ -56,7 +56,7 @@ Once done send by email @thibaut@sortlist.com & @olivier@sortlist.com:
 1. a copy/extract of your workbook with the datasource used. 
 
 
-![Example of LUCANUS Analysis](https://ibb.co/nBJGRyN) 
+![Example of LUCANUS Analysis](https://ibb.co/nBJGRyN][img]https://i.ibb.co/HC8SXyf/Screen-Shot-2018-12-28-at-11-29-38.png) 
 
 
 ### Technical Specifications
