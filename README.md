@@ -8,6 +8,7 @@ That’s why we’re looking for a talented Data Analyst to join our highly moti
 or more commonly the Listen, Understand, Cohorts, Aknowledge, Narratives, Users & Stories. 
 
 <a href="https://ibb.co/nBJGRyN"><img src="https://i.ibb.co/HC8SXyf/Screen-Shot-2018-12-28-at-11-29-38.png" alt="Screen-Shot-2018-12-28-at-11-29-38" border="0" /></a>
+*example of cohorts analysis
 
 
 As the new **Data Analyst** of Sortlist you need to get to know the business and behaviors of Sortlist's clients. 
