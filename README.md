@@ -1,37 +1,84 @@
-![Sortlist Logo](https://s3-eu-west-1.amazonaws.com/magicagencies/externals/fb.png)
+# Sortlist Challenges - Data Analyst
 
-# Sortlist Challenges
+[Sortlist](https://www.sortlist.com) is not just a beautiful interface, it’s a full experience with a deep integration from the user interface all the way to the servers we interact with. As Sortlist’s backbone, data are crucial to every aspect of our business from product & dev prioritisation to business actions.
 
-[Sortlist](https://www.sortlist.com) is not just a beautiful interface, it’s a full experience with a deep integration from the user interface all the way to the servers we interact with. As Sortlist’s backbone, the development is crucial to every aspect of our web application and client apps rely heavily on it.
+That’s why we’re looking for a talented Data Analyst to join our highly motivated team and help us build Sortlist inside out. As Mom used to say, beauty comes from within.
 
-That’s why we’re looking for a talented Engineer to join our highly motivated development team and help us build Sortlist inside out. As Mom used to say, beauty comes from within.
+## The LUCANUS Challenge (or more commonly the Listen, Understand, Cohorts, Aknowledge, Narratives, Users & Stories) 
 
-You can see here 3 differents challenges:
-- [Full-Stack](https://github.com/sortlist/jobs/tree/full-stack)
-- [Front-end](https://github.com/sortlist/jobs/tree/front-end)
-- [Back-end](https://github.com/sortlist/jobs/tree/back-end)
+As the new Data Analyst of Sortlist you need to get to know the business and behaviors of Sortlist's clients. 
 
-Pick one and go ahead!
+You have already studied & meet all our team members after your training period at Sortlist and understand the Business model dynamic pretty well.
 
-#### Instructions
+You know that subscriptions are the main Sortlist's revenue and you want to better understand them.
 
-Give your instructions to deploy your application.
+You want to make sure to give important insight to the management team by helping them to understand more the company growth and the leverage that Sortlist has at international level. 
 
-Create a new private GitHub repository. Immediately after the project initialization (auto-generated stuff), **please switch on another branch** and push your commits to it as you are completing the challenge. It would help us to review your code through a pull request.
+Therefore, you have received a small set of Data in the following 
+[Spreadsheet](https://docs.google.com/spreadsheets/d/1DSHE0r-RVgzaNjc8wyvG7_gVVYUOCdm78fO3MajlK8s/edit#gid=0)
 
-In order to see how you work, we are interested in seeing each commit. A big dump of your project to github in one commit is not a good idea.
+Your goal is to understand the behaviors of agencies (accounts) on Sortlist in time, per countries, and per plan type.
 
-Once you are ready, add the dev team (@charlesdg, @gagalago, @matthieusieben) from the Sortlist team to the repository and send an email for us (charles@sortlist.com, simon@sortlist.com, matthieu@sortlist.com) to review it.
+## Hints & tips: 
+- Duplicate the Google spreadsheet
+- note that accounts can have multiple subscriptions
+- note that amounts purchase and/or refund are not linked to plan type period 
+e.g: a yearly plan could be sold at 250 EUR/year => 20.83333 EUR/Month
+ and a monthly plan could be sold at 250 EUR/month => 3000 EUR/YEAR 
 
-Don't hesitate to ask us questions. Displaying creativity is a bonus in all challenges.
+## Exercices: 
 
+1. Which Company has the most subscriptions & how many subscriptions it has?
+
+2. Which country is generating the most revenue ? Can you create one dashboard on tableau displaying the evolution of revenue per week per country and per plan type ?
+
+3. Which plan type is generating the most revenue ? 
+
+5. Can you create one dashboard on tableau where we can visualize the MRR per plan type, country and agencies expertise ? 
+
+6. How is the revenue churn evolving in time ? Can you explain why it is good and/or bad for Sortlist ? 
+
+7. How would you display on tableau a clear visualization of the revenue churn per plan type & countries ?
+
+The spreadsheet is composed of 4 tabs:
+* Invoices : all the invoices since 2015-01-15
+* Accounts : all the agencies accounts since 2015 
+* Subscriptions : all the subscriptions 
+* Plan_type : all the different plan period 
+
+ps: please embedded your passwords on Tableau to ease the access to your project & workbooks. 
+
+Once done send by email @thibaut@sortlist.com & @olivier@sortlist.com: 
+
+0. the link of your published work
+1. a copy/extract of your workbook with the datasource used. 
+
+
+![Example of LUCANUS Analysis](https://ibb.co/nBJGRyN)
+
+
+### Technical Specifications
+
+You are asked to create a project on https://www.tableau.com/ public that can be used with dynamic filters.
+
+The project will gatter dashboards & workbooks that could be shared with our team.
+
+#### Tableau
+We ask you to use tableau [Tableau](https://www.tableau.com/) to build the dashboards for the challenge. Don't hesitate to use Tableau community for help [Tableau Community] (https://community.tableau.com/welcome).
+
+Some useful knowledge center to consider:
+ * [Best Practices on Tableau](https://onlinehelp.tableau.com/current/pro/desktop/en-us/dashboards_best_practices.htm)
+ * [Monthly Recurring Revenue](https://www.putler.com/mrr/)
+ * [Cohort Analysis Example Tableau](https://kb.tableau.com/articles/howto/additional-cohort-analysis-example)
+ * [Retention Cohort Analysis](https://community.tableau.com/thread/239023)
+ 
 
 #### Side notes
 
-Keep in mind what we will compare your work with our own production application. While we are not asking for a full production-ready app, we’d like to see that your code has that potential:
+Keep in mind what we will compare your work with our own Tableau analysis.  We’d like to see that your data analysis has that potential:
 
  * clean
- * flexible
- * extensible
- * maintainable
- * great error/exception handling & reporting
+ * readable
+ * simple
+ * business insightful
+ 
