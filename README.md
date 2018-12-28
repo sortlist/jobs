@@ -8,8 +8,6 @@ That’s why we’re looking for a talented Data Analyst to join our highly moti
 or more commonly the Listen, Understand, Cohorts, Aknowledge, Narratives, Users & Stories. 
 
 <a href="https://ibb.co/nBJGRyN"><img src="https://i.ibb.co/HC8SXyf/Screen-Shot-2018-12-28-at-11-29-38.png" alt="Screen-Shot-2018-12-28-at-11-29-38" border="0" /></a>
-*example of cohorts analysis
-
 
 As the new **Data Analyst** of Sortlist you need to get to know the business and behaviors of Sortlist's clients. 
 
@@ -17,7 +15,7 @@ You have already studied & meet all our team members after your training period 
 
 You know that **subscriptions are the main Sortlist's revenue driver** and you want to better understand them.
 
-You want to make sure to give important insights to the management team by helping them to *understand the company growth and the leverages that Sortlist has at international level*. 
+You want to make sure to give important insights to the management team by helping them to *understand the company growth and the leverages that Sortlist has at international level*.
 
 Therefore, you have received a small set of Data in the following Spreadsheet  
 <a href="https://docs.google.com/spreadsheets/d/1DSHE0r-RVgzaNjc8wyvG7_gVVYUOCdm78fO3MajlK8s/edit#gid=0" target="_blank"> Spreadsheet </a>
@@ -25,12 +23,12 @@ Therefore, you have received a small set of Data in the following Spreadsheet
 Your goal is to understand the behaviors of agencies (accounts) on Sortlist in time, per countries, and per plan type.
 
 ## Hints & tips: 
-- Duplicate the Google spreadsheet
-- note that accounts can have multiple subscriptions
-- note that amounts purchase and/or refund are not linked to plan type period 
+1. Duplicate the Google spreadsheet
+2. note that accounts can have multiple subscriptions
+3. note that amounts purchase and/or refund are not linked to plan type period 
 e.g: 
-* a yearly plan could be sold at 250 EUR/year => 20.83333 EUR/Month
-* and a monthly plan could be sold at 250 EUR/month => 3000 EUR/YEAR 
+  * yearly plan could be sold at 250 EUR/year => 20.83333 EUR/Month
+  * and a monthly plan could be sold at 250 EUR/month => 3000 EUR/YEAR 
 
 ## Exercices: 
 
