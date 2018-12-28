@@ -10,6 +10,7 @@ You can see here 3 differents challenges:
 - [Full-Stack](https://github.com/sortlist/jobs/tree/full-stack)
 - [Front-end](https://github.com/sortlist/jobs/tree/front-end)
 - [Back-end](https://github.com/sortlist/jobs/tree/back-end)
+- [Data Analyst](https://github.com/sortlist/jobs/tree/data-analyst)
 
 Pick one and go ahead!
 
