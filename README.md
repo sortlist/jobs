@@ -22,7 +22,7 @@ Therefore, you have received a small set of Data in the following Spreadsheet
 
 Your goal is to understand the agencies' behaviours (accounts) on Sortlist in time, per countries, and per plan type.
 ## Time for the test: 
-We have estimate that a **senior Data analyst** with a good SAAS knowledge should be able to do the work in 2-3 hours. 
+We have estimated that a **senior Data analyst** with a good SAAS, Tableau knowledge should be able to do the work in less than 3 hours. 
 The test is not timed, the time you will need to do the entire test will depend of your knowledge base, research & learning skills ;).
 
 Good luck !
