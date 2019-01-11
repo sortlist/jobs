@@ -31,7 +31,12 @@ Good luck !
 ## Hints & tips: 
 1. Duplicate the Google spreadsheet
 2. Note that accounts can have multiple subscriptions
-3. Note that amounts purchase and/or refund are not linked to plan type period 
+3. Note some accounts can have multiple company_name 
+e.g : indeed an Agency Group can have multiple **subsidiaries** in different Countries & specialized in different expertises.
+
+Publicis is a huge agencies group that have subsidiaries in multiple countries and specialized in divers expertises. 
+
+4. Note that amounts purchase and/or refund are **not linked to plan type period** 
 e.g: 
   * yearly plan could be sold at 250 EUR/year => 20.83333 EUR/Month
   * monthly plan could be sold at 250 EUR/month => 3000 EUR/YEAR 
