@@ -1,3 +1,5 @@
+![Sortlist listing](https://ibb.co/JtWvRLp)
+
 # Sortlist Integration Challenge
 
 [Sortlist](https://www.sortlist.com) is not just a beautiful interface, it’s a full experience with a deep integration from the user interface all the way to the servers we interact with. As Sortlist’s backbone, the development is crucial to every aspect of our web application and client apps rely heavily on it.
@@ -24,10 +26,10 @@ To bootstrap your page, just follow the same HTML structure as the one from this
 
 ### Technical specifications
 
-#### Agencies properties:**
+#### Agencies properties
 `agency.name` `agency.logo` `agency.location` `agency.cover` `agency.reviews` `agency.works` `agency.team` `agency.services` `agency.phone`
 
-#### Requirements**
+#### Requirements
 - The HTML should match the AngularJS Material guidelines and avoid unecessary elements that are not provided by the AngularJS Material library.
 - The CSS should be as short as it could be and used with caution to avoid useless overiding. Writing your code in SASS is a plus.
 - The overall look & feel should match perfectly the provided layout and our Sortlist Design Guidelines.
