@@ -27,9 +27,49 @@ To bootstrap your page, just follow the same HTML structure as the one from this
 ### Technical specifications
 
 #### Agencies properties
+
 `agency.name` `agency.logo` `agency.location` `agency.cover` `agency.reviews` `agency.works` `agency.team` `agency.services` `agency.phone`
 
+Use [controllers](https://docs.angularjs.org/guide/controller) to display those properties in your page. A controller is a JavaScript object that contains attributes/properties, and functions. Each controller accepts $scope as a parameter, which refers to the application/module that the controller needs to handle. Here is an example:
+
+`.controller('AppCtrl', function($scope) {
+
+    $scope.phones = [
+      {
+        type: 'Home',
+        number: '(555) 251-1234',
+        options: {
+          icon: 'communication:phone'
+        }
+      },
+      {
+        type: 'Cell',
+        number: '(555) 786-9841',
+        options: {
+          icon: 'communication:phone',
+          avatarIcon: true
+        }
+      },
+      {
+        type: 'Office',
+        number: '(555) 314-1592',
+        options: {
+          face : imagePath
+        }
+      },
+      {
+        type: 'Offset',
+        number: '(555) 192-2010',
+        options: {
+          offset: true,
+          actionIcon: 'communication:phone'
+        }
+      }
+    ];
+`
+
 #### Requirements
+
 - The HTML should match the AngularJS Material guidelines and avoid unecessary elements that are not provided by the AngularJS Material library.
 - The CSS should be as short as it could be and used with caution to avoid useless overiding. Writing your code in SASS is a plus.
 - The overall look & feel should match perfectly the provided layout and our Sortlist Design Guidelines.
