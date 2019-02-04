@@ -32,7 +32,8 @@ To bootstrap your page, just follow the same HTML structure as the one from this
 
 Use [controllers](https://docs.angularjs.org/guide/controller) to display those properties in your page. A controller is a JavaScript object that contains attributes/properties, and functions. Each controller accepts $scope as a parameter, which refers to the application/module that the controller needs to handle. Here is an example:
 
-`.controller('AppCtrl', function($scope) {
+```
+.controller('AppCtrl', function($scope) {
   $scope.phones = [
     {
       type: 'Home',
@@ -57,7 +58,8 @@ Use [controllers](https://docs.angularjs.org/guide/controller) to display those 
       }
     }
   ];
-}`
+}
+```
 
 #### Requirements
 
