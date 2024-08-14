@@ -32,7 +32,7 @@ Therefore, you have received a small set of Data in the following Spreadsheet
 Your goal is to understand the Service Providers' behavior (accounts) on Sortlist in time, per country, and per ICP type.
 
 ## Time for the test: 
-We have estimated that a **senior Business Intelligence specialist** with great Marketplace, SAAS, and/or Tableau knowledge should be able to do the work in less than 3 hours. 
+We have estimated that a **senior Business Intelligence specialist** with great Marketplace, SAAS, and/or Tableau knowledge should be able to do the work in 1 day. 
 
 The test is not timed, the time you will need to do the entire test will depend on your knowledge base, research & learning skills ;).
 
@@ -74,7 +74,7 @@ Document your findings, specifically any patterns or interesting observations ab
 
 ### Technical Specifications
 
-You are asked to create a project on https://www.tableau.com/ public that can be used with dynamic filters.
+You are asked to create a project on https://www.tableau.com/ public or PowerBI or any relevant visualization tools that can be used with dynamic filters.
 The project will gather dashboards & workbooks that could be shared with our team.
 
 
@@ -83,12 +83,12 @@ The spreadsheet is composed of 3 tabs:
 * Services consumed : all the consumption of the accounts since 01/01/2022 
 * Customer id : all the customers 
 
-Once you have cover the questions, please send them by email to thibaut@sortlist.com and loic.foguenne@sortlist.com with the link to your published workbook or the extract of your workbook. 
+Please prepare the deliverable as a presentation slide deck, ensuring each answer to the questions is clearly communicated. Your ability to convey information effectively, with attention to visual clarity, accuracy, and thoroughness, will be critically evaluated.
 
-ps: please embed your passwords on Tableau to ease access to your project & workbooks. 
+ps: if you use Tableau, don't forget to embed your passwords on Tableau to ease access to your project & workbooks. 
 
-#### Tableau
-We ask you to use Tableau [Tableau](https://www.tableau.com/) to build the dashboards for the challenge. Don't hesitate to use Tableau Community for help [Tableau Community](https://community.tableau.com/welcome).
+#### Tableau or Visualisation tools
+We use Tableau internally but yet we are agnostic on others visualisation tools for the case.
 
 Some useful knowledge center to consider:
  * [Marketplace Advanced Guide](https://www.dropbox.com/s/i3wc5obtxxwdgl3/Guide%20to%20Marketplaces-Third%20Edition.pdf?dl=0) 
