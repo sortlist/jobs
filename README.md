@@ -88,7 +88,7 @@ Please prepare the deliverable as a presentation slide deck, ensuring each answe
 ps: if you use Tableau, don't forget to embed your passwords on Tableau to ease access to your project & workbooks. 
 
 #### Tableau or Visualisation tools
-We use Tableau, yet we are agnostic on others visualisation tools for the case. you to use Tableau [Tableau](https://www.tableau.com/) to build the dashboards for the challenge. Don't hesitate to use Tableau Community for help [Tableau Community](https://community.tableau.com/welcome).
+We use Tableau internally but yet we are agnostic on others visualisation tools for the case.
 
 Some useful knowledge center to consider:
  * [Marketplace Advanced Guide](https://www.dropbox.com/s/i3wc5obtxxwdgl3/Guide%20to%20Marketplaces-Third%20Edition.pdf?dl=0) 
